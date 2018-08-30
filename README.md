@@ -1,2 +1,2 @@
 # steam-scammer-ips
-A list of IPs known to be scammers on Steam. 
+You're supposed to use this responsibly. If you break your local laws it's not my fault man.
